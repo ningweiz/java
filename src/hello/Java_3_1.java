@@ -6,6 +6,7 @@ public class Java_3_1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+//		¡£¡£
 		int number=(int)(Math.random()*100);
 		Scanner in=new Scanner(System.in);
 		int a;
