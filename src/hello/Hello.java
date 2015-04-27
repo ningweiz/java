@@ -8,7 +8,7 @@ public class Hello {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-         /* System.out.println("Hello World!");
+          System.out.println("Hello World!");
 	     Scanner in = new Scanner(System.in);
          System.out.println("echo:"+in.nextLine());
 	    int price = 0;
@@ -18,7 +18,7 @@ public class Hello {
 	      amout=in.nextInt();
 	     System.out.print("«Î ‰»ÎΩ∂Ó£∫");
 	      price=in.nextInt();
-          System.out.println(amout+"-"+price+"="+(amout-price));*/
+          System.out.println(amout+"-"+price+"="+(amout-price));
           int foot;
           double inch;
           //double meter;
