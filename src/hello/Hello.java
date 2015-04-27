@@ -9,7 +9,7 @@ public class Hello {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
           System.out.println("Hello World!");
-//	     Scanner in = new Scanner(System.in);
+	     Scanner in = new Scanner(System.in);
 //         System.out.println("echo:"+in.nextLine());
 //	    int price = 0;
 //	    final int amout=100; //³£Á¿Ìí¼Ófinal
