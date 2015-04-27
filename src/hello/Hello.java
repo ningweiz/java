@@ -19,7 +19,7 @@ public class Hello {
 	     System.out.print("«Î ‰»ÎΩ∂Ó£∫");
 	      price=in.nextInt();
           System.out.println(amout+"-"+price+"="+(amout-price));
-          int foot;
+          int foot; 
           double inch;
           //double meter;
           Scanner a = new Scanner(System.in);
