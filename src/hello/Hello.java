@@ -13,15 +13,15 @@ public class Hello {
          System.out.println("echo:"+in.nextLine());
 	    int price = 0;
 	    final int amout=100; //常量添加final
-//	      int amout =0;
-//	      System.out.println("请输入票面：");
-//	      amout=in.nextInt();
-//	     System.out.print("请输入金额：");
-//	      price=in.nextInt();
-//          System.out.println(amout+"-"+price+"="+(amout-price));
-//          int foot; 
-//          double inch;
-          //double meter;
+	      int amout =0;
+	      System.out.println("请输入票面：");
+	      amout=in.nextInt();
+	     System.out.print("请输入金额：");
+	      price=in.nextInt();
+          System.out.println(amout+"-"+price+"="+(amout-price));
+          int foot; 
+          double inch;
+          double meter;
 //          Scanner a = new Scanner(System.in);
 //          foot=a.nextInt();
 //          inch=a.nextInt();
