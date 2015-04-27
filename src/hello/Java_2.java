@@ -11,6 +11,7 @@ public class Java_2 {
             int ammout=in.nextInt();
             System.out.println(ammout>=10);
             System.out.println("ураЦ:"+(ammout-10));
+            System.out.println("ураЦ:"+(ammout-10));
 	}
 
 }
