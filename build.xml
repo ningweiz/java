@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<project name="hello" default="jar" basedir=".">
+   <target name="jar" depends="run">
+<jar destfile="helloworld.jar" basedir="build/classes">
+           <manifest>
+              <attribute name="Main-class" value="HelloWorld"/>
+           </manifest>
+       </jar>
+</target>
+</project>
