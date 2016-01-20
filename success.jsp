@@ -25,5 +25,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   <body>
  	欢迎<%=request.getParameter("username") %><br/>
  	<a href="crud/crud.jsp">点击跳转</a>
+ 	<a href="crud/crud.jsp">点击跳转</a>
+ 	<a href="crud/crud.jsp">点击跳转</a>
   </body>
 </html>
